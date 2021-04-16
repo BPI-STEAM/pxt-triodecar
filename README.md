@@ -2,7 +2,7 @@
 
 [BPI-TriodeCar is a product designed for education on entry-level engineering](https://es.aliexpress.com/item/1005002490348201.html?spm=5261.ProductManageOnline.0.0.21634edftI1T4f)
 
-##Note
+## Note
 
 This is only a beta version
 
