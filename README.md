@@ -4,7 +4,13 @@
 
 ## Note
 
-This is only a beta version
+## This is only a beta version
+
+## You can see more information here http://wiki.banana-pi.org/BPI_Triode-Car_kit
+
+## Here are some of our videos  
+Triode Car #1 - A Beginning to Something Big https://www.youtube.com/watch?v=qcR-Haovyr4
+Triode Car #2 - Installing Colorful Resistors! https://www.youtube.com/watch?v=z6adIa8id5Y
 
 ## Usage
 
