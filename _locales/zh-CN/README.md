@@ -1,6 +1,6 @@
 ## Triode-Car
 
-[BPI-TriodeCar是一个为Steam教育而设计的产品 is a product designed for education on entry-level engineering](https://www.aliexpress.com/item/1005002522563487.html?spm=2114.12010612.8148356.23.4c7c599eTzy5vr)
+[BPI-TriodeCar是一个为Steam教育而设计的产品](https://www.aliexpress.com/item/1005002522563487.html?spm=2114.12010612.8148356.23.4c7c599eTzy5vr)
 
 ## 注意
 
