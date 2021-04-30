@@ -9,7 +9,7 @@
     "triodecar.direction.right|block": "右拐",
     "triodecar.motor.left|block": "左侧",
     "triodecar.motor.right|block": "右侧",
-    "triodecar.readCarPatrol|block": " |%patrol 巡线传感器状态",
+    "triodecar.ReadLDR|block": " |%patrol 巡线传感器状态",
     "triodecar.CarDirection|block": "控制TriodeCar |%direction",
     "triodecar.CarmotorRun|block": "|%motor|电机前进速度|%speed",
     "triodecar.UltrasonicSensor|block": "超声波距离|%unit"
