@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-CN/README.md"
+        "_locales/zh-CN/README.md",
+        "_locales/zh-cn/triodecar-strings.json"
     ],
     "testFiles": [
         "test.ts"
