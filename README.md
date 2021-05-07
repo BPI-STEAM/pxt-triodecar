@@ -26,13 +26,13 @@ basic.forever(() => {
 })
 ```
 
-### ``readPatrol``
+### ``ReadLDR``
 
-Use the ``readPatrol`` blocks to control the car
+Use the ``ReadLDR`` blocks to control the car
 
 ```blocks 
 basic.forever(() => {
-    serial.writeLine("" + (triodecar.readPatrol(triodecar.Patrol.PatrolLeft)))
+    serial.writeLine("" + (triodecar.ReadLDR(triodecar.Patrol.PatrolLeft)))
 })
 ```
 ## Use as Extension
