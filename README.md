@@ -4,8 +4,6 @@
 
 ## Note
 
-This is only a beta version
-
 You can see more information here http://wiki.banana-pi.org/BPI_Triode-Car_kit
 
 Here are some of our videos  
