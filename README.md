@@ -6,6 +6,10 @@
 
 You can see more information here http://wiki.banana-pi.org/BPI_Triode-Car_kit
 
+You can get start quickly here http://wiki.banana-pi.org/Getting_Started_with_Triode-Car
+
+                               https://hackaday.io/project/178248-triode-car-line-follower
+                               
 Here are some of our videos  
 
 Triode Car #1 - A Beginning to Something Big https://www.youtube.com/watch?v=qcR-Haovyr4
